@@ -18,6 +18,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 8h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3...yêuuuuu anhhh',
-    messLink: 'https:/m.me/doffi.fb' //link mess của các bạn. VD: https://m.me/doffi.fb
-    messLink: <li class='socialright'><a href='https://www.facebook.com/doffi.fb/' itemprop='url' rel='nofollow' target='_blank' title='Follow us on Facebook'><span itemprop='name'><i class='fa fa-facebook'/></span></a></li>,
-}
+    messLink: 'https://www.facebook.com/doffi.fb' //link mess của các bạn. VD: https://m.me/doffi.fb
+   }
