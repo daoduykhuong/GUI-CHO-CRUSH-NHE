@@ -1,3 +1,6 @@
+// Chào các bạn Mình Là Khương nè!
+//messLink: 'https:/m.me/doffi.fb'
+
 const CONFIG = {
     introTitle: 'Emmmm à!',
     introDesc: `Trái đất vốn lạ thường
