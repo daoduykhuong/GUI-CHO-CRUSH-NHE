@@ -8,9 +8,9 @@ Mở file config.js sửa nội dung theo mẫu
 
 ```
 
-const CONFIG = {
-    introTitle: 'Emmmm à!',
-    introDesc: `Trái đất vốn lạ thường
+```const CONFIG = {
+    introTitle: 'Emmmm à!`
+    introDesc: `Trái đất vốn lạ thường`
     Mà sao em cứ đi nhầm đường
     Lạc vào tym anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
@@ -26,5 +26,4 @@ const CONFIG = {
     messDesc: 'Tối nay 8h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3...yêuuuuu anhhh',
     messLink: 'm.me/doffi.fb' //link mess của các bạn. VD: https://m.me/doffi.fb
-}
-```
+}``````
